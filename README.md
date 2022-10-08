@@ -1,6 +1,8 @@
 # pokeDev
 Pokedev realizado con react + tailwindcss
 
+![](https://github.com/elmergustavo/pokeDev/blob/master/public/img/thumbnail.png)
+
 <table>
   <tr>
 		<td align="center"> <img align="center" src="https://github.com/BhavyaCodes/portfolio/blob/main/public/assets/icons/react.png" alt="react logo" width="100" /></td>
