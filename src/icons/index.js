@@ -1,0 +1,8 @@
+export { IconDark } from './IconDark'
+export { IconGitHub } from './IconGitHub'
+export { IconInstagram } from './IconInstagram'
+export { IconLight as Light } from './IconLight'
+export { IconLinkedIn } from './IconLinkedIn'
+export { IconNextArrow } from './IconNextArrow'
+export { IconPrevArrow } from './IconPrevArrow'
+export { IconTwitter } from './IconTwitter'
